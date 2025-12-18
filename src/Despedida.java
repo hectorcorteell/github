@@ -5,6 +5,6 @@ public class Despedida {
         Scanner sc = new Scanner(System.in);
         System.out.println("Dime tu nombre");
         String nombre = sc.nextLine();
-        System.out.println("Adiós"+nombre);
+        System.out.println("Nos vemos "+nombre);
     }
 }
