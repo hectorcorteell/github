@@ -6,7 +6,7 @@ public class Saludo {
         System.out.println("Dime tu nombre");
         String nombre = sc.nextLine();
 
-        System.out.println("Hola"+nombre);
+        System.out.println("Hola"+nombre+" ¡Hace mucho que nos nos vemos!");
         sc.close();
     }
 
