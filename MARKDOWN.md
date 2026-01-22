@@ -11,4 +11,15 @@ https://github.com/hectorcorteell/github.git
 ```
 2. Crear un proyecto desde un repositorio clonado
 
-3. 
+![alt text](markdown01.png)
+
+3. Pegar el enlace y clonar
+
+### Enlances que te serán de ayuda
+* [Creación repositorios en GitHub](https://docs.github.com/es/repositories/creating-and-managing-repositories/quickstart-for-repositories)
+* [Markdown 2](./src/MARKDOWN.md)
+
+| Comando | Función |
+| ----------- | ----------- |
+| git init | Crear repositorio |
+| git add . | Añade todos los archivos a la *Staging Area* |
